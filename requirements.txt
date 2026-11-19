@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn<0.12        # the notebook uses the pre-0.12 seaborn API (e.g. sns.countplot('default', data=...))
+scikit-learn
+imbalanced-learn
+jupyter
